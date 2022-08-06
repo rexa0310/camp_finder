@@ -2,6 +2,10 @@
   <h1>🏕️ Camp Finderr 🌲</h1>
 </div>
 
+## Live Demo
+
+To see the app in action,[click here](https://campfinderr.herokuapp.com/)
+
 <div align="center">
   <h2>- Development Process -</h2>
 </div>
